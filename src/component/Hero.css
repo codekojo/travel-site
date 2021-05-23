@@ -1,0 +1,17 @@
+
+.jumbotron {
+   background-image: linear-gradient(rgba(0,0,0,0.5), transparent), url('../img/landing-page.jpg');
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   min-height: calc(100vh - 56px);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   object-fit: contain;
+   color: white;
+   margin-bottom: 0;
+   border-radius: 0;
+}
+

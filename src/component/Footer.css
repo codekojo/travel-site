@@ -1,0 +1,48 @@
+.footer--section {
+   background-image: linear-gradient(rgba(0,0,0,0.5), transparent), url('../img/contact-mountain.png');  
+   background-position: center center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+
+.form--wrapper {
+   background-color: rgba(18,28,39,0.8);
+   color: white;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   border-radius: 20px;
+}
+
+.btn--footer {
+   border-bottom-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+}
+
+
+.footer--page {
+   background-color: rgba(18,28,39,0.8);
+   color: white;
+   
+}
+
+.footer--nav {
+   display: flex;
+   justify-content: space-between;
+}
+
+.footer--nav a {
+   padding: 0rem 1rem;
+}
+
+.container--page {
+   display: flex;
+   justify-content: space-between;
+   margin-top: auto;
+   padding: 1rem 1rem 0 1rem;
+}
